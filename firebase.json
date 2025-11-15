@@ -40,5 +40,11 @@
       "public": "sdfthfdjty",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
+    ,
+    {
+      "site": "dgfjdtk",
+      "public": "dgfjdtk",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
   ]
 }
