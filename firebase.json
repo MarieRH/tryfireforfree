@@ -24,6 +24,11 @@
       "site": "dfgdfjgfky",
       "public": "dfgdfjgfky",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "site": "sdthkluydrg",
+      "public": "sdthkluydrg",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }
