@@ -29,6 +29,11 @@
       "site": "sdthkluydrg",
       "public": "sdthkluydrg",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "site": "dsrgdrtjer",
+      "public": "dsrgdrtjer",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }
