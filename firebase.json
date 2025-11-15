@@ -9,6 +9,11 @@
       "site": "sfhrgjkloih",
       "public": "sfhrgjkloih",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "site": "tfdjftukret",
+      "public": "tfdjftukret",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }
