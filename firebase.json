@@ -46,10 +46,16 @@
       "public": "dgfjdtk",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
-        ,
+   ,
     {
       "site": "alalalalalallal",
       "public": "alalalalalallal",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
+    ,
+    {
+      "site": "dpdforlemtfrversion",
+      "public": "dpdforlemtfrversion",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
