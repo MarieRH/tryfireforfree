@@ -73,7 +73,14 @@
     {
       "site": "isodghbhjd",
       "public": "isodghbhjd",
-      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "redirects": [
+        {
+          "source": "/pic",
+          "destination": "https://i.imgur.com/pXtUfnX.png",
+          "type": 302
+        }
+      ]
     }
   ]
 }
