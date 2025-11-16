@@ -53,7 +53,7 @@
     {
       "site": "dpdforlemtfrversion",
       "public": "dpdforlemtfrversion",
-      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     },
     {
       "site": "sdthfgjrtj",
