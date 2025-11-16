@@ -53,12 +53,12 @@
     {
       "site": "dpdforlemtfrversion",
       "public": "dpdforlemtfrversion",
-      "ign,
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     {
       "site": "sdthfgjrtj",
       "public": "sdthfgjrtj",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
-    }ore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
     }
   ]
 }
