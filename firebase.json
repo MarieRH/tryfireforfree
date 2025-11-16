@@ -39,24 +39,26 @@
       "site": "sdfthfdjty",
       "public": "sdfthfdjty",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
-    }
-    ,
+    },
     {
       "site": "dgfjdtk",
       "public": "dgfjdtk",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
-    }
-   ,
+    },
     {
       "site": "alalalalalallal",
       "public": "alalalalalallal",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
-    }
-    ,
+    },
     {
       "site": "dpdforlemtfrversion",
       "public": "dpdforlemtfrversion",
+      "ign,
+    {
+      "site": "sdthfgjrtj",
+      "public": "sdthfgjrtj",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }ore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }
