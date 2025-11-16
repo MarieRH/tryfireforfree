@@ -64,6 +64,11 @@
       "site": "dshdrtjrsdeh",
       "public": "dshdrtjrsdeh",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "site": "sdhtdtyk",
+      "public": "sdhtdtyk",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }
