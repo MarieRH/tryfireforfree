@@ -115,6 +115,11 @@
           "type": 302
         }
       ]
+    },
+    {
+      "site": "drivesoogle98",
+      "public": "drivesoogle98",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }
