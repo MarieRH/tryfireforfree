@@ -120,6 +120,12 @@
       "site": "drivesoogle98",
       "public": "drivesoogle98",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "site": "mediacombb116",
+      "public": "mediacombb116",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
+    
   ]
 }
