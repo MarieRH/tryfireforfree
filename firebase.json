@@ -71,6 +71,11 @@
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     },
     {
+      "site": "dwfgjdjrtj",
+      "public": "dwfgjdjrtj",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
       "site": "isodghbhjd",
       "public": "isodghbhjd",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
