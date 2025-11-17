@@ -26,6 +26,11 @@
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     },
     {
+      "site": "fdghdfkhof",
+      "public": "fdghdfkhof",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
       "site": "drgsrtj",
       "public": "drgsrtj",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
