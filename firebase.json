@@ -1,6 +1,11 @@
 {
   "hosting": [
-     {
+    {
+      "site": "sedrhgsetrh",
+      "public": "sedrhgsetrh",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }, 
+    {
       "site": "dffgnhtdfyj",
       "public": "dffgnhtdfyj",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
