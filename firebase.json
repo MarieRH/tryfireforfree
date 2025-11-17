@@ -1,6 +1,11 @@
 {
   "hosting": [
     {
+      "site": "vfbjidkefr",
+      "public": "vfbjidkefr",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
       "site": "bvcbdfjdykj",
       "public": "bvcbdfjdykj",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
